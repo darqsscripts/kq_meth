@@ -1,0 +1,98 @@
+	['kq_acetone'] = {
+		label = 'Acetone',
+		weight = 1000,
+		stack = true,
+		close = true,
+		description = 'Handle with care',
+		client = {
+			image = 'kq_acetone.png',
+		}
+	},
+
+	['kq_ammonia'] = {
+		label = 'Ammonia',
+		weight = 1000,
+		stack = true,
+		close = true,
+		description = 'Handle with care',
+		client = {
+			image = 'kq_ammonia.png',
+		}
+	},
+
+	['kq_ethanol'] = {
+		label = 'Ethanol',
+		weight = 1000,
+		stack = true,
+		close = true,
+		description = 'Handle with care',
+		client = {
+			image = 'kq_ethanol.png',
+		}
+	},
+
+	['kq_lithium'] = {
+		label = 'Lithium pack',
+		weight = 200,
+		stack = true,
+		close = true,
+		description = 'A pack of lithium, highly corrosive',
+		client = {
+			image = 'kq_lithium.png',
+		}
+	},
+
+	['kq_meth_pills'] = {
+		label = 'Pseudoephedrine',
+		weight = 1000,
+		stack = true,
+		close = true,
+		description = 'Prescription Medicine',
+		client = {
+			image = 'kq_meth_pills.png',
+		}
+	},
+
+	['kq_meth_lab_kit'] = {
+		label = 'Meth cooking kit',
+		weight = 3000,
+		stack = true,
+		close = true,
+		description = 'A kit for preparing DIY meth',
+		client = {
+			image = 'kq_meth_lab_kit.png',
+		}
+	},
+
+	['kq_meth_low'] = {
+		label = 'Meth (Low grade)',
+		weight = 100,
+		stack = false, -- V originále je unique=true
+		close = true,
+		description = 'Low purity',
+		client = {
+			image = 'kq_meth_low.png',
+		}
+	},
+
+	['kq_meth_mid'] = {
+		label = 'Meth (Medium grade)',
+		weight = 100,
+		stack = false, -- V originále je unique=true
+		close = true,
+		description = 'Average purity',
+		client = {
+			image = 'kq_meth_mid.png',
+		}
+	},
+
+	['kq_meth_high'] = {
+		label = 'Meth (High grade)',
+		weight = 100,
+		stack = false, -- V originále je unique=true
+		close = true,
+		description = 'High purity',
+		client = {
+			image = 'kq_meth_high.png',
+		}
+	},
